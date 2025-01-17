@@ -61,3 +61,7 @@ using namespace std;
         cout<<sum;
         return 0;
     }
+
+
+
+// all three approaches take O(n) time for listing and O(n) time for summing hence O(n) is final time complexity.
